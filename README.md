@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+The deployed Link is here : https://classy-duckanoo-c165a1.netlify.app/
+
+The Backend Base is here : https://github.com/Pavan9567/Emailbuilder-Backend.git
